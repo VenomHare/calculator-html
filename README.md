@@ -7,6 +7,13 @@ Use Callbacks to add Calculation Logic to Calculators
 
 The Following assignment should be done in [assignment.js](./assignment.js)
 
+## How to Clone repo
+Run the following commands
+```bash
+    git clone https://github.com/VenomHare/calculator-html.git
+    cd calculator-html
+```
+
 ## How to Add Logic
 
 Main Frontend Logic is added for this assignment
@@ -30,6 +37,5 @@ This function is prefined for this assignment.
         b : float
 
 ```
-
 
 
